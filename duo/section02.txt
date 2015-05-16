@@ -1,0 +1,210 @@
+Bob was so beside himself he could scarcely tell fact from fiction
+Bob was so beside himself he could scarcely tell fact from fiction
+Bob was so beside himself he could scarcely tell fact from fiction
+be beside
+be beside	ひどく興奮する
+scarcely
+scarcely	ｽｹぁスリィ	ほとんど（...）しない almost not 
+tell A from B
+tell A from B	AをBと区別する	know a from b
+fact
+fact		事実　現実(truth)
+fiction
+fiction		作り話　虚構(lie)
+ボブはひどく取り乱して、現実と虚構の区別がほとんどできなかった
+
+His new novel, which combines prose with his gift for poetry is going to be published.
+His new novel, which combines prose with his gift for poetry is going to be published.
+His new nobel, which combines prose with his gift for poetry is going to be published.
+novel
+novel	小説	novelist = writer　小説家
+combine
+combine	（複数の物が）組み合わさる
+combine A with B
+combine A with B	AとBを組み合わせる
+prose
+prose	散文
+gift	贈り物　（天賦の）才能(talent)
+poetry
+poetry	詩	poem（一遍の詩） poet（詩人）
+publish
+publish	...を出版する
+	publisher	出版社　発行者
+	publication	出版物　出版　公表
+	publicity	宣伝
+
+An up-to-date edition of the encyclopedia will come out next mounth.
+An up-to-date edition of the encyclopedia will come out next mounth.
+An up-to-date edition of the encyclopedia will come out next mounth.
+up-to-date
+up-to-date	最新の	latest/current/modern
+		時代遅れの　古い　out of date/outdated/old-fasioned
+edition
+edition		（本などの）版
+		edit 編集する
+		editor	編集者
+encyclopedia
+encyclopedia	百科事典
+come out
+come out	（人、物が）出る、あらわれる(appear)　発売される、出版される(be released/published)　明るみに出る(emerge/come to light)
+		（人が）態度を明らかにする。同性愛者であることを公表する。
+
+Ms.Yamada translated the fascinating fairy tale into plain Japanease.
+Ms.Yamada translated the fascinating fairy tale into plain Japanease.
+Ms.Yamada translated the fascinating fairy tale into plain Japanease.
+translate(...) (from A into B)
+translate	（...）を（AからB）に翻訳する	translation　翻訳　translator　翻訳家
+fascinating
+fascinating	魅了する、おもしろい	fascinate ...を魅了する
+fascination	魅了
+fairy
+fairy		妖精　fairy tale おとぎ話（story）
+tale
+tale		話、物語(story)
+plain		
+plain		平易な、明白な、普通の、地味な
+山田さんが、そのこころひかれるおとぎ話をやさしい日本語に翻訳した。
+
+The following passage is quoted from a well-known fable.
+The following passage is quoted from a well-known fable.
+The following passage is quoted from a well-known fable.
+following
+following	（伝える内容が）以下の　（日時が）　次の...
+		follow （...に）続く　...の後を追いかける　に従う
+passage
+passage		（文章などの）一節　通路
+quote(...)	（...を）引用する
+quote
+well-known	有名な
+well-known
+fable
+fable		寓話
+以下の一節は有名な寓話からの引用です。
+
+"Are you familiar with contemporary literature?" "I know next to nothing about it."
+"Are you familiar with contemporary literature?" "I know next to nothing about it."
+"Are you familiar with contemporary literature?" "I know next to nothing about it."
+familiar
+familiar	よく知っている（...）　なじみの（...）
+be familiar with...	...をよく知っている
+be familiar with...	...をよく知っている
+be familiar to...	...によく知られている
+contemporary
+contemporary
+contemporary
+comtemporary		現代の
+literature
+literature
+literature
+literature		文学の
+next to
+next to
+next to
+next to
+next to			...の隣に　ほとんど
+「現代文学に詳しいですか？」　「ほとんど知りません」
+
+At time I confuse "curve" with "carve"
+At time I confuse "curve" with "carve"
+At time I confuse "curve" with "carve"
+at time
+at time		たまに　時々(sometimes/ once in a while
+curve
+curve		曲線　カーブ
+carve
+carve		...を彫る
+時々"curve"と"carve"を混同してしまう
+
+Don't be shy. Your pronunciation is more or less correct.
+Don't be shy. Your pronunciation is more or less correct.
+Don't be shy. Your pronunciation is more or less correct.
+Don't be shy. Your pronunciation is more or less correct.
+shy
+shy		恥ずかしがりの、内気な
+pronunciation
+pronunciation
+pronuncitaion
+pronunciation	発音
+more or less
+more or less
+more or less
+more or less
+more or less	だいたい(almost,nearly)
+correct
+correct 	正しい、誤りがない(right,accurate)
+恥ずかしがらないで、あなたの発音はだいたいあっています。
+
+This article contains tips for those who are eager to increase their vocabulaly.
+This article contains tips for those who are eager to increase their vocabulaly.
+This article contains tips for those who are eager to increase their vocabulaly.
+article
+article
+article		記事(item,column)　品物(item,object)
+contain...	...を含んでる。...が入っている(have...in)
+contain...
+contain...
+contain...
+tips
+tips
+tips
+tips
+tips		先端、チップ　役立つ情報
+those who ~	~という人たち
+those who ~
+those who ~
+those who ~
+those who ~
+increase (...)
+increase (...)
+increase (...)
+increase (...)
+increase (...)	...を増やす(add to.../raise.../boost...)
+eager
+eager
+eager
+eager		熱心な
+be eager to do	しきりに...したがっている
+vocabulary
+vocabulary
+vocabulary
+vocabulary	語彙
+
+His latest works are on display at the city hall. They are fabulous beyond description.
+His latest works are on display at the city hall. They are fabulous beyond description.
+His latest works are on display at the city hall. They are fabulous beyond description.
+latest		最新の
+latest
+latest
+latest
+latest
+work
+work		作業、仕事	作品
+public works	公共事業
+display
+display
+display		展示、陳列
+be on display	展示されている
+hall
+hall
+hall		廊下、通路
+city hall	市庁舎
+fabulous
+fabulous
+fabulous
+fabulous	すてきな（女性てき）	terrific
+description
+description
+description	描写、叙述
+beyond description	言葉では表せない
+彼の最新の作品が、市庁舎で展示されている。言葉では表せないほど素敵。
+
+"Could you move over a little?" "Oh,sorry. I didn't realize I qa taking so much space."
+move over	席をつめる
+realize		ということに気付く
+take up...	をとる（必要以上に）
+「少し詰めていただけませんか？」　「すいません。こんなに場所をとっていたなんて気づきませんでした。」
+
+"What's this ugly object?" "This is a pice of abstruct art!"
+ugly	醜い、不格好な
+「この不格好な物体はない？」「これは抽象芸術の作品だよ」
+
