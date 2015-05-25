@@ -1,0 +1,45 @@
+I begged Richie to lend me a hundred bucks, but he shook his head, saying "I'm broke, too."
+I begged Richie to lend me a hundred bucks, but he shook his head, saying "I'm broke, too."
+I begged Richie to lend me a hundred bucks, but he shook his head, saying "I'm broke, too."
+
+beg(..)		(...人に)にすがってお願いする。	ask
+lend...A	..にA（もの、金）を貸す (lend A to ...)
+		borrow A from ...	...からAを借りる	give[pay] ...back A
+buck		ドル	牡鹿	西部開拓時代にbuck-skin（牡鹿の皮）が貨幣の代用として使われたことから
+shake one's head	Noという。首を横にふる	say no	動く部分はhead（首から上）、neck（首）は軸となる部分で動かない
+be (flat) broke		お金がない、すっからかんだ。(be hard up)	go broke 破産する
+100ドル貸してくれとリッチーに頼んだら、彼は「俺もお金がないんだよ！」といって、首を横に振った。
+
+"I'm apt to buy things on impulse whenever something is on sale!" "So am I."
+apt		適切な
+be apt to do	（とかく）...しがちである(be likely to do...)
+impulse		衝動	in impulse　衝動的に	impulsive　衝動的な
+on sale		バーゲン（特売）で
+So am I.	私もそうす。おなじです。（Me too)
+「安売りしていると、いつも衝動買いしてしまうたちです。」「わたしも」
+
+As it is, ordunary people cannot afford to purchase such luxuries.
+as it is	文頭：　　　　（残念ながら）実際のところ(actually/in reality/in fact)
+		文中・文尾：そのままで、現状のまま(as is)
+		文尾：　　　　もうすでに(already
+ordinary	普通の、平凡な(usual/normal/common/average)	反対	(special/unusual/extraordinary)
+ordinary
+ordinary
+can afford	...に費やす	（経済的・時間的に）余裕がある
+can afford
+can afford
+purchase	...を購入する	(buy/get/acquire)
+luxury		贅沢、贅沢品
+実際のところ、普通の人々にはそんなぜいたく品を購入する余裕はない。
+
+As we anticipated, the unemployment rate has risen three quarters in a row.
+anticipated	...を予期する（expect)
+unemployment	失業	反対	employment　雇用されている
+rate		率、割合	料金	first-rate　一流の	ratio　比、比率
+rise		上がる、増える(increase/go up)	（太陽などが）昇る
+quater		四半期	地区	15分（1/4時間）	25セント(1/4ドル）
+quota		割り当て数量
+row		縦の列
+in a row	連続で
+予期していた通り、失業率は3四半期連続で上昇した。
+
