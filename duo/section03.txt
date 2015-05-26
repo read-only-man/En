@@ -43,3 +43,48 @@ row		縦の列
 in a row	連続で
 予期していた通り、失業率は3四半期連続で上昇した。
 
+I have to cut down on my expenses, so from now on, I'm going to keep track of then ona daily basis.
+cut down on...		...を減らす(reduce...)	cut ... down ...（木など）を切り落とす
+expenses		（個々の）出費、費用(cost)　経費	反	income 収入
+from now on		これからは、今後は	【from now(今から）+on（継続して）】
+track			タイヤ痕、（動物などの）足跡
+keep track of		...の動き[流れ]を常に記憶する。
+lose track of		...の動き[流れ]が分からなくなる。
+be on the right [wrong] track	正常な[間違った]　道をたどっている。
+daily			毎日の(everyday/day-of-day)
+on a ... basis		...という基準[やり方]で、...的に
+出費を切り詰めないと。だから、これからは、使ったお金は1日単位で記録していくつもりだ。
+
+in any case, the union has to compromise to a certain extent.
+case			場合(situation/occasion)	事例(exsample/instance)	(the---)事実、実状(fact/truth)
+			（捜査・裁判中の）事件	症例	箱、ケース(box/container)
+in any case		とにかく、いずれにせよ(anyway/anyhow/at any rate)
+union			労働組合(labor union)	一つになるまとまること
+unit			一つになる(combine/join/together)	...を一つにまとめる(bring...together)
+unity			統一、団結
+compromise		(-- (on...)（...について）妥協する(make a compromise)	...（主義など）を曲げる
+certain			ある特例の...(particular/specific/definite)
+			（特定はできないが）ある...(some)
+			（人が）（...）を確信している(sure/convinced/confident/assured)
+			（事が）確実な(sure)	反	uncertain　不確実な
+extent			程度、範囲
+to ... extend		..程度の	to some [a certain] exrent（ある程度の）
+いずれにせよ、組合側はある程度妥協しなければならない。
+
+Competent mechanics are in great demand, so they earn decent wages.
+competent			（要求される一定の）の能力[技量]を持つ、適格の(able/capable/proficient/qualified)	反	incompetent　不適格な
+comeptence			（要求される一定の）の能力、技能(ability/capability/proficiency/skill)
+mechanic			整備士、修理工
+mechanical			機械的な、機械の
+mechanism			（機械に組み込まれた）装置、機構	構造、働き
+demand				需要	反　supply　要求	（強い）要求(claim/order/strong request)
+be in demand			需要がある、人気がある。
+on demand 			ほしいときに（すぐに）
+supply and demand		需要と供給（日本語と語順が逆）
+earn...				...（金を）稼ぐ(get.../ make.../get paid...)	（努力の結果）...（評判など）を獲得する
+earnings			(個人、会社の）所得
+decent				かなりよい(satisfactory/respectable/good enough)	まともな、きちんとした
+wages				（時間、日数などで計算される）賃金(pay/salary)
+				salaryは長期的、安定的に払われる給料。commissionは契約ごとに払われる歩合給。
+有能な整備士は引っ張りだこだから、なかなかの賃金を稼げる。
+
