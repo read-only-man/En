@@ -88,3 +88,66 @@ wages				（時間、日数などで計算される）賃金(pay/salary)
 				salaryは長期的、安定的に払われる給料。commissionは契約ごとに払われる歩合給。
 有能な整備士は引っ張りだこだから、なかなかの賃金を稼げる。
 
+The president announced a concrete plan to carry out welfare reform.
+president			大統領、社長
+announce			...を公表（発表）する
+announcement			発表、公表
+concrete			（計画などが）具体的な、明確な	有形の	コンクリート
+carry..out			...（計画、任務などを）実行する(do../perform../implement/...execute)
+welfare				福祉、幸福、安寧
+reform				改革、改善
+大統領は福祉改革を実行するための具体的な計画を発表した。
+
+His policy will no doubt lead to dismal consequences, It needs a thorough review.
+policy				政策、方針
+doubt				疑念	きっと
+beyond				向うに、超えて	（時）過ぎて
+lead				...を（..へと）先導する。	率いる	リードする
+dimal				気分を暗くさせる(bad)
+consequence			結果、影響（望ましくない結果）	(out-come/result/effect)
+thorough			徹底的な（complete/full/oin-depth)
+review				見直し、再検討
+彼の政策はきっと暗い結果をまねくだろう。徹底的な見直しが必要だ。
+
+it goes without saying that the aging od society is inevitable.
+it goes without saying that	～は言うまでもない。
+aging				高齢化
+inevitable			避けられない(inescape) 反　avoid-able
+社会の高齢化が避けられないのはいうまでもない。
+
+Please take a look at this chart. It indicates that the juvenile delinquency is on the increase at an alarming rate.
+take a look at ...		..をちょっと見る
+chart				図、表
+indicate...			示す(show)	（場所など）を指し示す。(point to)
+juvenile			青少年の、少年の(youth)
+deliquency			非行
+be on the increase		増加している、増加傾向にある
+alarming			深刻な	警戒すること
+at a ...reate			...なパース[割合」で
+この表をご覧になってください。少年非行が深刻な割合で増加していることを示しています。
+
+In many business districts, there are a lot of vacant lots which have been for sale for years.
+district			地区、地方、管轄区	(zone/area/resion)
+a lot of.../lots of..		たくさんの
+vacant				（家・座席などが）だれもいない	あいている
+lot 				たくさんの量	1区画	運命
+be for sale			売り物である
+多くの商業地区では、数年間売りに出されている空き地がたくさんある。
+
+The population density in the metropolis is gradually decreasing.
+population			人口
+density				密度
+metropolis			大都市
+gradually			徐々に
+decrease			減少（低下）する
+大都市の人口密度が徐々に低下している。
+
+In all likelihood, the birthrate will continue to decline steadily for yeats to come.
+in all likelihood		ほぼ間違いなく
+birthrate			出生率
+continue			続く、...を続ける
+decline				減少する	断る
+sreadily			着実に、しっかりと
+...to come			これから来る
+ほぼ間違いなくこの先数年、出生率は減少の一途をたどるだろう。
+

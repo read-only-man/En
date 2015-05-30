@@ -1,0 +1,28 @@
+The power plant supplies the remote country with electricty.
+power			エネルギー(enegy)	力(force/might/strength)	能力(ability)
+plant			工場、生産設備、プラント(factory)	植物、草花【大地に根付くもの】
+power plant		発電所
+supply A (with B)	Aに（Bを）供給する
+supply B (to A)		Bを（Aに）供給する
+remote			遠く離れた（far away/distant)
+country			（米国の）群	国
+electricity		電気
+その発電所は遠く離れた群に電気を供給している。
+
+You are not allowed to operate this device without permission.
+allow			...（人）に（..すること）を許す	...（行為）を許す(ler.../permit...)
+allow A to do		Aに...することを許す
+operate			...(機械）を動かす[操作する](control.../run...)	手術する	作戦、行動
+device			装置、道具
+permission		（正式な）許可(authorization)
+許可なくこの装置を操作することはできません。
+
+In fact, the inhabitants have been exposed to radiation.
+in (actual) fact	実際は、はっきり言えば
+inhabitant		住民、居住者
+inhabit			住む、生息する
+exporse			...をさらす	...を暴露する
+exporse A to B		AをBにさらす
+radiation		放射能、放射線
+実は住民たちは放射能にさらされていた。
+
