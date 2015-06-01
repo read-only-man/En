@@ -26,3 +26,38 @@ exporse A to B		AをBにさらす
 radiation		放射能、放射線
 実は住民たちは放射能にさらされていた。
 
+One cannnot emphasize too much the potential danger of nuclear energy.
+cannot do ... too much	いくら...してもし過ぎることはない
+emphasize		..を強調[力説]する
+emphasis		強調、重点
+potential		潜在的な...　将来有望な...
+danger			危険（な状況）、危険性(hazard/peril/risk)
+nuclear			核の、原子力の(atomic)
+energy			（石油、電気などの）エネルギー	活力、精力、行動力(vigor/vitality)
+核エネルギーの潜在的な危険性は、いくら強調してもし過ぎることはない。
+
+For years the press overlooked the problem. But now, if anything, they are making too much of it.
+press			押すこと(push)	報道陣[機関]、報道	アイロンをかけること
+overlook...		（不注意で）..（重要なこと）を見落とす（見過ごす）(miss.../do not notice...)
+			（場所が）...を見渡せる(have a view of from above)
+if anything		むしろ、どいらかといえば　【強いて言う何か（anything)があるとすれば(if)】
+make ... of A		Aに対して...な評価[判断]をする
+過去数年間その問題を見過ごしていた報道機関が、今では、どちらかといえばそのことを重視しすぎている
+
+As well as cultivating grain, the farmer runs a grocery store.
+as well as...		...だけでなく、...と同様に
+...as well		...も（同様に）(too/also)
+cultivate		...（作物）を栽培する(raise.../grow)
+grain			穀物
+farmer			農場経営者
+run			走る	伸びる	...を経営（運営）ｓｙｒｙ	動く	運行する	流れる	にじむ
+grocery store		食糧雑貨店
+穀物を栽培するだけでなく、その経営者は食糧雑貨店も経営している。
+
+The reserch institute was estanblished	in the late 1960s.
+research		研究[調査]
+institute		理系の大学、組織
+estanblish		設立する
+late			遅れて、遅い		後半の、後半
+その研究所は1960年代後半に設立された。
+
