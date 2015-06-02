@@ -61,3 +61,33 @@ estanblish		設立する
 late			遅れて、遅い		後半の、後半
 その研究所は1960年代後半に設立された。
 
+Why don't you consult Starr in person? He's by far the most prominent attorney around here.
+Why don't you do ...?	...したら？、...してみるのはどう？( Why not do...?) 直訳すると「どうして...しないんだ」と命令調に思えるが、実際には強制のニュアンスはほとんどない。
+consult...(abount A)	（Aに関して）...（専門家など）に相談する
+consult with		協議する
+in person		（電話や代理人を使わず）本人と直接会って
+by far			（比較、最上級を強めて）はるかに、間違いなく
+prominent		傑出した、著名な	際立った、人目をひく
+attorney		弁護士、法定代理人
+スターさんに直接相談したらどうですか？このあたりでは、間違いなく一番有名な弁護士ですよ。
+
+I'll write it down just in vase, because I have bad memory.
+write ... down		（忘れないように）...を書き留める(put ... down/note ... down)
+just in case		（文末に用いて）念のため、万一のことを考えて
+have a bad memory	記憶力が悪い	反	have a good memory　記憶力がいい
+念のため、メモしておきます。記憶力が悪いから。
+
+The lawyer recommended that his client take legal action against the insurance company.
+recommend...				...（もの、事）を勧める、推薦する(suggest...)
+recommend (that) A (should) do...	A（人）に...するのがいいと勧める
+recommend A to B			AがいいとB（人）に勧める
+client					依頼人、顧客
+legal					法的な、法律の	合法の
+action					行動、実行	行為、行い
+take (...) action			（...な）行動をとる
+act					行為
+insurance				保険
+insure...against A			...に（Aに対する）保険を掛ける
+against					に反抗して	に逆らって、背いて、反して	に不利に	にぶつかって	に寄り掛かって	に立てかけて	と対照して
+弁護士は依頼人に、保険会社に対して法的手段をとることを勧めた
+
