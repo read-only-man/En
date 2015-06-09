@@ -1,0 +1,29 @@
+"Anything else?" "That's it." "For here or to go?" "To go."
+Anything else?			ほかになにか？<<レストランなどで聞かれる定型フレーズ>>
+That's it.			以上です。それで全部です(That's all)	そう、その通り(That's right)
+For here or to go?		（ファーストフード店などで）こちらでお召し上がりですか（それともお持ち帰りですか？）
+「ほかにご注文は？」　「それだけです。」　「こちらでお召し上がりですか？」　「持ち帰ります。」
+
+"How much is this rug?" "$100 including tax." "OK, I'll take it."
+rug				敷物、絨毯　(carpetは床全体に敷き詰めるものをいう)
+including			...を含めて　反対　excluding　...を除いて
+tax				税金
+I'll take it			それ[これ]にします[決めます]
+「この敷物はおいくらですか？」　「税込で100ドルです。」　「じゃあ、これにします」
+
+I don't think those pants look good on you. Try these on. They're really in now.
+pants				パンツ、ズボン、スラックス	下着はundetpants
+look good [nice] on		（服などが）...（人）に似合う
+try ... on			...を試しに着てみる
+be in				流行っている
+そのパンツはあなたに似合わないと思う。　こっちをはいてみて。　今すごく流行っているよ。
+
+He got out of the cab in haste, saying, "Keep the change."
+get out				（...（小型の車など）から）降りる。
+get off				（...（電車・バスなど）を）降りる。
+cab				タクシー(taxi)　take a cab[taxi]　タクシーで行く
+in haste			急いで(in a hurry[rush]/quickly)
+hasty				慌てている、せっかちな(hurried/rushed)
+keep the change.		おつりはいりません。<<changeは「小銭」の意味>>
+彼は「おつりはいいです」と言って、急いでタクシーを降りた。
+
