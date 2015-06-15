@@ -27,3 +27,53 @@ hasty				慌てている、せっかちな(hurried/rushed)
 keep the change.		おつりはいりません。<<changeは「小銭」の意味>>
 彼は「おつりはいいです」と言って、急いでタクシーを降りた。
 
+Delivery service is available to our customers for a slight extra charge.
+delivery			配達、配達物
+service				（便利な）サービス
+available			（ものが）利用[入手・購入]可能な
+customer			（小売業・飲食業・企業の）客、顧客
+slight				（量・程度が）わずかな、たいしたことはない
+extra				追加の、通常以外の
+charge				料金、手数料（fee）	責任、監督（responsibility）	容疑、非難
+当店のお客様は、わずかな追加料金で配達サービスをご利用できます。
+
+"It's on me." "No. You treat me every time we eat out." "Well,okay. Let's split the check then."
+It's on me			私のおごりです(I'll pay)
+treat				...（人・もの）を(...のように[として]）扱う(deal with)	...を治療する	...にごちそうする[ご褒美を上げる]
+every time ~			～するときはいつでも(whenever)
+eat out				外食する
+split				...を分ける(divide)	（費用など）を分担する(share)	裂ける
+split the check			割り勘にする
+check				確認、検査	伝票		小切手
+「これは僕のおごり。」「だめよ。外食の時はいつもおごってもらっているし。」「う～ん。わかった。じゃあ割り勘にしよう。」
+
+"That's odd! Tell me how it happend." "I'll explain it to you later."
+odd				奇妙な(strange/unusual/funny)	奇数の
+happen				（偶然・不意に）起こる(occur/come about/ break out)
+explain				（...を）説明する(describe)
+explain A to B			AをB（人）に説明する。
+「それは変だわ。どうしてそんなことが起きたのか教えて。」
+「後で説明するよ。」
+
+My parents gave me a 6 pm curfew as a punishment because I broke my promise.
+curfew				門限
+punishment			罰、刑罰(penalty)
+break one's promise [work]	約束を破る
+私が約束を破ったので、罰として両親に門限を6時にされた。
+
+As the proverb goes, "The end justifies the means."
+proverb				ことわざ、格言
+as the proverb goes[says]	ことわざにある通り
+end				終わり	（最終）目的(goal)
+justify				...を正当化する(give a good reason for)
+justice				正義、公正さ
+means				手段、方法(way/method)
+by means of			...という手段で
+ことわざにある通り、「嘘も方便（目的が手段を正当化する）」。
+
+Now that I've found that there's no one to turn to, I'll have to stand on my own two feet.
+now (that)~			（いまや）～なのだから(since ~/because ~/as ~)
+turn to				（つらい[困った]時...）に頼る(fall back on.../depend on.../lean on...)
+stand on one's own teo feet	自立する(be independent)
+誰も頼れる人がいないとわかったのだから、自分の力でやっていくしかなし。
+
