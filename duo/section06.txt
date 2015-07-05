@@ -47,6 +47,27 @@ split the check			割り勘にする
 check				確認、検査	伝票		小切手
 「これは僕のおごり。」「だめよ。外食の時はいつもおごってもらっているし。」「う～ん。わかった。じゃあ割り勘にしよう。」
 
+While I was hanging out at the mall, I ran into Ken.
+hang out 			なんとなく時間を過ごす、ぶらぶらする。	【hang（ぶらーんとする) + out（外で)】
+mall				（巨大な）ショッピングセンター　shopping mall	敷地内のmall（遊歩道）に沿って店が並んでいることから。
+run into ...			（車が）...に衝突する。(crash into .../hit...)	（人）に偶然出会う(bump into.../ meet ... by chance)
+ショッピングセンターをぶらぶらしていたら、偶然ケンにあった。
+
+I was short of cash, so I withdrew the $100 that I had deposited in my bank account last week.
+be short of...			...が不足している。(don't have enough...)
+be running short		（...）がなくなりそうだ
+withdraw(...)			...（預金など）を引き出す(take[get] out) 反　(deposit... ....を預ける)
+deposit...			...（お金など）を預ける
+account				（銀行）口座(bank account)　説明(description/explaination) 理由(reason)
+現金が足りなかったので、先週口座に入れた100ドルを引き出した。
+
+On her way home she was robbed of her purse.
+on the[one's] way (to...)	（...に向かう）途中で (en route (to...))
+rob				...(人・銀行など）から強奪する
+rob A of B			A（人）からB（物・金）を奪う(steal B from A)
+purse				(女性用)のハンドバッグ
+彼女は帰宅途中にハンドバッグを奪われた。
+
 "That's odd! Tell me how it happend." "I'll explain it to you later."
 odd				奇妙な(strange/unusual/funny)	奇数の
 happen				（偶然・不意に）起こる(occur/come about/ break out)
